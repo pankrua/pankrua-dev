@@ -67,4 +67,4 @@ I have experience working with enterprise systems, internal web applications, Li
 ---
 
 ## 📫 Contact
-- Email: yourmail@gmail.com
+- Email: pankrua@gmail.com
